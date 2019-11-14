@@ -7,4 +7,4 @@ $ sh src/setup.sh
 ```
 
 ## code
-notebook/naqanet.ipynb
+* notebook/naqanet.ipynb
