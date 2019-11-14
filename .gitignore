@@ -1,0 +1,5 @@
+#etc..
+data/drop_dataset/
+
+# Jupyter Notebook
+notebook/.ipynb_checkpoints/
