@@ -1,4 +1,4 @@
-# naqanet_notebook
+# [WIP] naqanet_notebook
 Testing NAQANet
 https://arxiv.org/abs/1903.00161
 
