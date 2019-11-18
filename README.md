@@ -18,3 +18,6 @@ $ rm data/drop_dataset.zip
 
 ## Code
 * notebook/naqanet.ipynb
+
+## Memo
+* Tested on NVIDIA GTX 1060 (6GB)
